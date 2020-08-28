@@ -3,12 +3,48 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Superheroes</title>
+  <style>
+    img {
+      max-width: 100%;
+    }
+
+    .wearsACape {
+      width: 10%;
+      height: 10%;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    main {
+      display: grid;
+      grid-gap: 1rem;
+      margin: 0 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+  </style>
 </head>
 
 <body>
+  <main></main>
+  <template>
+    <article>
+      <h2>Name</h2>
+      <p class="age"></p>
+      <img class="wearsACape" src="https://img2.pngio.com/superhero-capes-png-transparent-superhero-capespng-images-pluspng-cape-vector-png-1370_1563.png" alt="Superhero Capes PNG Transparent Superhero Capes.PNG Images. | PlusPNG">
+      <img class="superhero-img" src="" alt="" />
+      <ul class="powers">Powers</ul>
+      <aside class="sidekick">Sidekick: <span></span></aside>
 
+    </article>
+  </template>
   <script src="superheroes.js"></script>
+  <script src="script.js"></script>
+
 </body>
 
 </html>

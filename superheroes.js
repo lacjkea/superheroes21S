@@ -8,7 +8,7 @@ const superheroes = [{
       "month": 04,
       "day": 4
     },
-    "image": "https://www.needpix.com/photo/download/813763/super-woman-flying-3d-figure-female-young-free-pictures-free-photos-free-images-royalty-free"
+    "image": "https://cdn.pixabay.com/photo/2017/10/11/17/46/graduation-2841875_960_720.jpg"
 },
 
   {
@@ -65,8 +65,8 @@ const superheroes = [{
     "wearsACape": true,
     "dob": {
       "year": 1990,
-      "month": 7,
-      "day": 13
+      "month": 8,
+      "day": 28
     },
 
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/1280px-Salem_witch2.jpg",
@@ -210,10 +210,10 @@ const superheroes = [{
     "wearsACape": true,
     "dob": {
       "year": 2000,
-      "month": 12,
-      "day": 30,
+      "month": 8,
+      "day": 30
     },
     "image": "https://staticshare.america.gov/uploads/2016/02/New-Jersey-sculpture-of-man-sleeping-on-a-park-bench-Grounds_for_Sculpture_4.jpg"
 }];
-console.table(superheroes);
-console.log(superheroes);
+//console.table(superheroes);
+//console.log(superheroes);
