@@ -725,6 +725,32 @@ const superheroes = [
       cape: true,
     },
   },
+  {
+    id: 123456789101112,
+    powers: [
+      "Beauty",
+      "Grace",
+      "Musicality",
+      "Mobility",
+      "Strength",
+      "Coordination",
+    ],
+    outfit: "White tutu dress",
+    alias: "Miss Élégance",
+    mission: "Save the world",
+    cape: false,
+    weaknesses: [
+      "Overestimates people's sense of beauty",
+      "Blindly believes that beauty alone can save the world",
+      "Naivete",
+    ],
+    image: "http://baevastudios.com/MissElegance.jpg",
+    enemies: 0,
+    sidekick: {
+      name: "Monsieur Élégant",
+      cape: false,
+    },
+  },
 ];
 console.table(superheroes);
 //console.log(superheroes);
