@@ -66,23 +66,14 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-
     powers: ["Pure awesome"],
-
     outfit: "Thong of Justice",
-
     alias: "Eubrick the Taco",
-
     mission: "Butt kicking",
-
     cape: true,
-
     weaknesses: ["Excesive pure awesomeness"],
-
     image: "https://i.gyazo.com/b5775aec4fe1ee728fe3614b07ecdd6b.png",
-
     enemies: -1,
-
     sidekick: {},
   },
   {
@@ -159,27 +150,17 @@ const superheroes = [
   },
   {
     id: 1804725864820182,
-
     powers: ["Unlimited Positivsm", "Great chef", "Makes the sun comes out"],
-
     outfit: "Fluffy body",
-
     alias: "Gully",
-
     mission: "World Mindfulness",
-
     cape: false,
-
     weaknesses: ["Cakes", "Bad words", "Thunders"],
-
     image:
       "https://st.depositphotos.com/1787196/1330/i/950/depositphotos_13302091-stock-photo-cute-monster.jpg",
-
     enemies: 1,
-
     sidekick: {
       name: "Brutus",
-
       cape: true,
     },
   },
@@ -249,27 +230,17 @@ const superheroes = [
 
   {
     id: 00000000000013,
-
     powers: ["Extra loud barking", "Fur attack", "Surprise poop atack"],
-
     outfit: "Pink mask",
-
     alias: "Super Paws",
-
     mission: "Extinguish boredom and undesired baths in the world",
-
     cape: true,
-
     weaknesses: ["Cats", "Liquorice"],
-
     image:
       "https://images.pexels.com/photos/4587984/pexels-photo-4587984.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
-
     enemies: 5,
-
     sidekick: {
       name: "Rick the Chihuahua",
-
       cape: false,
     },
   },
@@ -350,27 +321,17 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-
     powers: ["Unlimited Minions", "JS", "Bloody Rich"],
-
     outfit: "Big shoulder pads",
-
     alias: "Lord Destroyer van der Doom",
-
     mission: "World Domination",
-
     cape: true,
-
     weaknesses: ["Has kids", "Curry Herring", "Rainbows"],
-
     image:
       "https://static.wikia.nocookie.net/warhammer40k/images/7/74/Necron10.jpg/revision/latest/scale-to-width-down/340?cb=20130318163052",
-
     enemies: 3,
-
     sidekick: {
       name: "YesMan",
-
       cape: false,
     },
   },
@@ -392,27 +353,17 @@ const superheroes = [
   },
   {
     id: 44553377,
-
     powers: ["Unlimited webs", "CSS"],
-
     outfit: "red morph suit",
-
     alias: "Queen of England",
-
     mission: "World Peace",
-
     cape: false,
-
     weaknesses: ["Puppies", "Coffee", "Ice"],
-
     image:
       "https://www.pexels.com/photo/people-wearing-spider-man-adult-costume-walking-on-train-station-2859016/",
-
     enemies: 4,
-
     sidekick: {
       name: "NoBody",
-
       cape: false,
     },
   },
@@ -533,27 +484,17 @@ const superheroes = [
   },
   {
     id: 2166660199999,
-
     powers: ["Fast running", "Poison eyes", "Magic jump"],
-
     outfit: "Total black ",
-
     alias: "Magic Poison Cat Girl",
-
     mission: "Destroy Coders",
-
     cape: false,
-
     weaknesses: ["Loves cats", "Pizza", "Rain"],
-
     image:
       "https://www.google.com/search?q=magic+poison+cat+woman&tbm=isch&ved=2ahUKEwic6N2irdLuAhWQ_6QKHYDlDoYQ2-cCegQIABAA&oq=magic+poison+cat+woman&gs_lcp=CgNpbWcQAzIECCMQJ1CcPVjiQGC3RGgAcAB4AIABS4gB5gKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=cgUdYJznApD_kwWAy7uwCA&bih=948&biw=1604#imgrc=dKt8GK-0kLw2uM",
-
     enemies: 5,
-
     sidekick: {
       name: "InvisibleMan",
-
       cape: true,
     },
   },
@@ -575,104 +516,64 @@ const superheroes = [
   },
   {
     id: 6666666666666666,
-
     powers: ["Throwing axes", "Necromancy", "Teleportation"],
-
     outfit: "Leather armor",
-
     alias: "Larissa Raita the Half-Orc",
-
     mission: "Assassination of the king",
-
     cape: true,
-
     weaknesses: ["Beer", "Long-haired humans"],
-
     image:
       "https://static.wikia.nocookie.net/sciffy/images/8/8b/Half-Orc.jpg/revision/latest/scale-to-width-down/909?cb=20200608012844",
-
     enemies: 500,
-
     sidekick: {
       name: "Varg",
-
       cape: false,
     },
   },
   {
     id: 429348293842132,
-
     powers: ["charmer", "speaking English"],
-
     outfit: "mankini",
-
     alias: "Borat",
-
     mission: "cultural appropriation",
-
     cape: false,
-
     weaknesses: ["humour", "women"],
-
     image: "http://www.ozpolitic.com/album/forum-attachments/borat-mankini.jpg",
-
     enemies: 328200000,
-
     sidekick: {
       name: "Azamata Bagatov",
-
       cape: false,
     },
   },
   {
     id: 7823768246723675,
-
     powers: ["Green hell", "Wooden spikes"],
-
     outfit: "leafs",
-
     alias: "Pineman",
-
     mission: "Save world´s forests",
-
     cape: false,
-
     weaknesses: ["Chainsaws", "Axes"],
-
     image:
       "https://comicvine1.cbsistatic.com/uploads/scale_small/0/77/319772-21923-brother-nature.jpg",
-
     enemies: 5,
-
     sidekick: {
       name: "Green helper",
-
       cape: true,
     },
   },
   {
     id: 38961741973493282139,
-
     powers: ["Unlimited Strawberries", "Drawing", "Creative"],
-
     outfit: "Pink dress",
-
     alias: "Strawberry Princess",
-
     mission: "World Peace",
-
     cape: false,
-
     weaknesses: ["Darkness", "Broccoli", "Night"],
-
     image:
       "https://i.pinimg.com/originals/af/96/0a/af960a13c4a3dd2efb1e6e3cbcf0e624.jpg",
-
     enemies: 0,
-
     sidekick: {
       name: "StrawberryKitten",
-
       cape: false,
     },
   },
@@ -694,27 +595,17 @@ const superheroes = [
   },
   {
     id: 21212121212133246,
-
     powers: ["Banana shooting", "sweet"],
-
     outfit: "Pink striped pyjama",
-
     alias: "Anna the Super banana",
-
     mission: "To bring justice for all bananas, rotten, ripe, all.",
-
     cape: false,
-
     weaknesses: ["Sidekick", "Blenders", "Peter Pedal"],
-
     image:
       "https://www.google.com/search?q=banana+in+pyjamas+illustration&tbm=isch&ved=2ahUKEwi0kuGmrdLuAhVJgosKHS15Cw0Q2-cCegQIABAA&oq=banana+in+pyjamas+illustration&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BggAEAcQHjoECAAQHjoECAAQEzoGCAAQCBAeUIH8AVjBowJggaYCaABwAHgAgAFwiAGcCJIBBDEzLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=egUdYLTtHcmErgSt8q1o&bih=729&biw=1317#imgrc=vUDRlG3RqzqrPM",
-
     enemies: 1,
-
     sidekick: {
       name: "King of the Banana Flies",
-
       cape: true,
     },
   },
@@ -753,52 +644,32 @@ const superheroes = [
   },
   {
     id: 65648309403,
-
     powers: ["Unlimited food", "Happiness", "Spices"],
-
     outfit: "Blue fur",
-
     alias: "Foodilicious",
-
     mission: "Delivering Good Food to Everyone",
-
     cape: true,
-
     weaknesses: ["tahini", "doggos", "cookies"],
-
     image: "https://pixy.org/src/68/681109.jpg",
-
     enemies: 1,
-
     sidekick: {
       name: "Bambaleo",
-
       cape: false,
     },
   },
   {
     id: 92993992927272979,
-
     powers: ["Invincibility, speed"],
-
     outfit: " Yami kawaii",
-
     alias: "the procrastinator",
-
     mission: "To eliminate billionaires",
-
     cape: false,
-
     weaknesses: ["Pink stuff", "no coffee"],
-
     image:
       "https://intothespiderverse.fandom.com/wiki/Sp//dr(Earth-14512)?file=SP-dr.jpg",
-
     enemies: 2.825,
-
     sidekick: {
       name: "Memestress",
-
       cape: true,
     },
   },
@@ -819,58 +690,38 @@ const superheroes = [
   },
   {
     id: 7823768246723675,
-
     powers: ["Mind Reading", "Can teleport", "Bloody Rich"],
-
     outfit: "Black leather costume",
-
     alias: "StefaTrix",
-
     mission: "Looking for another gifted human",
-
     cape: true,
-
     weaknesses: ["raisins", "black chocolate", "rain"],
-
     image:
       "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F572309065149445481%2F&psig=AOvVaw150bzitDUwjyslWj8pFcom&ust=1612600827166000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjj9bWs0u4CFQAAAAAdAAAAABAJ",
-
     enemies: 2,
-
     sidekick: {
       name: "KitKAT",
-
       cape: false,
     },
   },
   {
     id: 98273487098095,
-
     powers: [
       "Super charming powers",
       "A love spreader",
       "Mega reader",
       "Giga dreamer powers",
     ],
-
     outfit: "Khaki green catwoman suit and a flower crown",
-
     alias: "Cognitive Caroline",
-
     mission: "World peace",
-
     cape: false,
-
     weaknesses: ["Super anxious powers", "Ryan Reynolds", "Food"],
-
     image:
       "https://i3-img.kabeleins.de/pis/ezone/ca22qgELB38wdEB-ZftIYFPQSp-HxjRVj8ghGONpO6WKv8KwJdGEsGDpV6d9K6vaArYrXxQyp0E8yXfpo2qDN3_IgAy2kLykmA7OZ0wUjw/profile:mag-996x562",
-
     enemies: 2,
-
     sidekick: {
       name: "Trauma Tristan",
-
       cape: true,
     },
   },
